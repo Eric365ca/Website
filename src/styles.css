@@ -6,7 +6,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #8a87877e;
+  
 }
 
 main {
@@ -17,5 +18,13 @@ main {
 
 main > h1 {
   text-align: center;
-  font-size: 3.5em;
+  font-size: 3em;
+}
+p{
+  background-image: url(images/sunnandor.jpg);
+  background-size: cover;
+  font-size: 2em;
+  font-style: italic;
+  
+  
 }

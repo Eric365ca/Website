@@ -9,6 +9,7 @@ html, body {
   background-color: #8a87877e;
   background-image: url(images/sunnandor.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 main {
@@ -23,7 +24,7 @@ main > h1 {
 }
 p{
 
-  font-size: 2em;
+  font-size: 1.5em;
   font-style: italic;
   
   
